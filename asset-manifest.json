@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alerts-Collapsed/static/css/main.71fed495.css",
+    "main.js": "/Alerts-Collapsed/static/js/main.332e8278.js",
+    "static/media/6769264_60111.jpg": "/Alerts-Collapsed/static/media/6769264_60111.cfe9f79c746ba3002568.jpg",
+    "static/media/street suite logo-04.png": "/Alerts-Collapsed/static/media/street suite logo-04.cee54732eb3643f9df54.png",
+    "index.html": "/Alerts-Collapsed/index.html",
+    "main.71fed495.css.map": "/Alerts-Collapsed/static/css/main.71fed495.css.map",
+    "main.332e8278.js.map": "/Alerts-Collapsed/static/js/main.332e8278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fed495.css",
+    "static/js/main.332e8278.js"
+  ]
+}
